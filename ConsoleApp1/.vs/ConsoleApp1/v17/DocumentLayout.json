@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\ Multithreaded Student Task Manager\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0B7711E-16BA-49F9-8BF1-766C28835E30}|ConsoleApp1.csproj|c:\\users\\student\\desktop\\ multithreaded student task manager\\consoleapp1\\studenttasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B7711E-16BA-49F9-8BF1-766C28835E30}|ConsoleApp1.csproj|solutionrelative:studenttasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0B7711E-16BA-49F9-8BF1-766C28835E30}|ConsoleApp1.csproj|c:\\users\\student\\desktop\\ multithreaded student task manager\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B7711E-16BA-49F9-8BF1-766C28835E30}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0B7711E-16BA-49F9-8BF1-766C28835E30}|ConsoleApp1.csproj|c:\\users\\student\\desktop\\ multithreaded student task manager\\consoleapp1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0B7711E-16BA-49F9-8BF1-766C28835E30}|ConsoleApp1.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0B7711E-16BA-49F9-8BF1-766C28835E30}|ConsoleApp1.csproj|c:\\users\\student\\desktop\\ multithreaded student task manager\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B7711E-16BA-49F9-8BF1-766C28835E30}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0B7711E-16BA-49F9-8BF1-766C28835E30}|ConsoleApp1.csproj|c:\\users\\student\\desktop\\ multithreaded student task manager\\consoleapp1\\studenttasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B7711E-16BA-49F9-8BF1-766C28835E30}|ConsoleApp1.csproj|solutionrelative:studenttasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "StudentTasks.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Desktop\\ Multithreaded Student Task Manager\\ConsoleApp1\\StudentTasks.cs",
               "RelativeDocumentMoniker": "StudentTasks.cs",
@@ -52,15 +52,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Desktop\\ Multithreaded Student Task Manager\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Student\\Desktop\\ Multithreaded Student Task Manager\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwDUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-14T11:40:45.501Z"
+              "WhenOpened": "2026-08-14T11:40:45.501Z",
+              "EditorCaption": ""
             }
           ]
         }
